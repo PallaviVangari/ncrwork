@@ -1,0 +1,4 @@
+﻿  palindrome.c
+d:\ncr ass 1\ncrwork\assignment1\palindrome\palindrome.c(20): warning C4013: 'getch' undefined; assuming extern returning int
+  palindrome.vcxproj -> D:\ncr ass 1\ncrwork\assignment1\Debug\palindrome.exe
+  palindrome.vcxproj -> D:\ncr ass 1\ncrwork\assignment1\Debug\palindrome.pdb (Partial PDB)
